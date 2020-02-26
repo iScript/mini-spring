@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be2ee3dd-9a6a-487c-b5df-6675a41cba34" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YHyT7qnxrAyFSfoyGlD00lergI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be2ee3dd-9a6a-487c-b5df-6675a41cba34" name="Default Changelist" comment="" />
+      <created>1582613818919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582613818919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="773" y="178" key="#Project_Structure" timestamp="1582618613441">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="773" y="178" key="#Project_Structure/0.23.1920.980@0.23.1920.980" timestamp="1582618613441" />
+    <state x="773" y="178" key="#Project_Structure/0.23.1920.982@0.23.1920.982" timestamp="1582617128095" />
+    <state x="1179" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1582623098931">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="1179" y="231" key="#com.intellij.ide.util.MemberChooser/0.23.1920.982@0.23.1920.982" timestamp="1582623098931" />
+    <state x="239" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582682392277">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="239" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1920.982@0.23.1920.982" timestamp="1582682392277" />
+    <state x="631" y="143" key="SettingsEditor" timestamp="1582619065373">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="631" y="143" key="SettingsEditor/0.23.1920.980@0.23.1920.980" timestamp="1582619065373" />
+    <state x="766" y="144" width="1200" height="742" key="dock-window-1" timestamp="1582623053719">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="766" y="144" width="1200" height="742" key="dock-window-1/0.23.1920.982@0.23.1920.982" timestamp="1582623053719" />
+    <state x="602" y="127" key="new project wizard" timestamp="1582614145433">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="602" y="127" key="new project wizard/0.23.1920.982@0.23.1920.982" timestamp="1582614145433" />
+    <state x="787" y="239" width="670" height="680" key="search.everywhere.popup" timestamp="1582698055734">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state x="787" y="239" width="670" height="676" key="search.everywhere.popup/0.23.1920.980@0.23.1920.980" timestamp="1582620245423" />
+    <state x="787" y="239" width="670" height="678" key="search.everywhere.popup/0.23.1920.982@0.23.1920.982" timestamp="1582622904590" />
+    <state x="787" y="239" width="670" height="680" key="search.everywhere.popup/0.23.1920.984@0.23.1920.984" timestamp="1582698055734" />
+  </component>
+</project>
